@@ -1,2 +1,2 @@
 # base-weather-app
-Input a city and get the weather forecast.
+Input a city name and get the weather forecast.
